@@ -20,8 +20,8 @@ public class Main {
                 Behind The Bastards, The Dollop, Well There's Your Problem, Ridiculous History and the like. I'm\s
                 currently reading "Rogues: True Stories of Grifters, Killers, Rebels, and Crooks".
                 This is the way.""";
+
         appendUsingFileWriter(filePath, appendText);
-        System.out.println("Hello world!");
     }
 
 
@@ -38,6 +38,7 @@ public class Main {
             // Below constructor argument decides whether to append or override
             fr = new FileWriter(file, true);
             fr.write(text);
+            System.out.println("File Written Successfully!");
 
         } catch (IOException e) {
             e.printStackTrace();
