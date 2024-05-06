@@ -6,7 +6,7 @@ You will have sent a pull request to have your changes merged with the main bran
 You will receive an invitation to participate in the project via email once I have added you as a collaborator to the GitHub repo. That's when you know you will have permission to push your changes to the GitHub server.
 
 ## Step One: In your OneDrive location, navigate to your workspace for CSC340 projects. 
-Do not go into any previously created repositories!
+> Do not go into any previously created repositories!
 
 ## Step Two: Right-Click on an empty space and start a Git Bash terminal/Git GUI dialog. 
 > MacOS users can just start a regular terminal.
@@ -20,7 +20,7 @@ Do not go into any previously created repositories!
 
 ## Step Five: Create your own branch.
     git checkout -b [ BRANCH NAME ]
-> where [ BRANCH NAME ] is your first initial and last name, e.g. John Doe would be jdoe, mine is sntini.
+> where [ BRANCH NAME ] is your first initial and last name, e.g. John Doe would be jdoe, mine is sntini. No brackets!
 
 ## Step Six: Open the project folder in IntelliJ.
 > In the main class, make your edits by changing appendText to an intro paragraph about yourself. Do not directly edit the about-me.txt file.
