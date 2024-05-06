@@ -61,4 +61,6 @@ https://github.com/uncg-csc340/su24-individual-hw1
 > Make sure the compare branch is your own branch, and the base branch is main.
 
 ## Final Step: Submit a link to the pull request that you created.
+> The link will include the word "pull" in it. Do not submit a link to the general repository.
+> 
 > Your work will get approved and merged so that your changes show up on the main branch.
