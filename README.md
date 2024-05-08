@@ -45,12 +45,15 @@ You will receive an invitation to participate in the project via email once I ha
 >More edits may have been to the document from other users in the time it took you to clone the file and update it.
 >
 >To resolve any potential conflicts and make sure your document is up-to-date, pull from Main again.
+
     git pull origin main
 
 > Note, if there are any updates or merge conflicts that have to be resolved, Go to Step six. Edit the file and remove the extra text inserted by the merge conflict.
 > 
 > The file with conflicts will include two versions of the same lines. Each version will be labeled with branch names. When you resolve the conflicts, make sure you do
-> not erase someone else's work in about-me.txt. 
+> not erase someone else's work in about-me.txt.
+>
+> After you save the file that had conflicts, you will need to make a new commit. Git will usually prompt you to do this.
 
 ## Step Ten: In GitBash, publish your branch to origin.
     git push origin [ BRANCH NAME ]
