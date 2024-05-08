@@ -23,7 +23,8 @@ You will receive an invitation to participate in the project via email once I ha
 > where [ BRANCH NAME ] is your first initial and last name, e.g. John Doe would be jdoe, mine is sntini. No brackets!
 
 ## Step Six: Open the project folder in IntelliJ.
-> In the main class, make your edits by changing appendText to an intro paragraph about yourself. Do not directly edit the about-me.txt file.
+> Make your edits in the main class. Do not directly edit the about-me.txt file. Change appendText to an intro paragraph about yourself
+> by making the following changes as shown in the existing text. 
 > Add a blank line. Add your name on a new line and underline it using dashes. Then write a short paragraph about yourself.
 > 
 > Save your changes and run the main method once, and this will append your text in the file.
