@@ -37,3 +37,10 @@ areas. I am contributing to the development of an open source creative canvas so
 for stable diffusion, InvokeAI. Additionally, I provide alpha/beta testing for closed 
 source mobile camera apps, Moment on iOS and MotionCam on Android. In my free time  
 besides gaming, I enjoy photography and listening to music.
+
+  Jun Lee
+
+This is an introductory paragraph about me. I was born in Korea and moved to Oklahoma when I was 5.
+Then I went to Colorado when I was 8. Then I moved to NC when I was 14. I moved to Korea and lived
+there from 2015-2019. This was my first time going back to Korea since I've first moved to the States.
+Now I'm back at NC to study comp sci and get a job in the field
