@@ -25,3 +25,15 @@ developer at Fastenal mostly making mobile applications. I have nearly 10 years 
 working in factories and manufacturing plants. In my spare time I like to play video games with 
 my friends or read fantasy novels. I am currently reading Homeland by R.A. Salvatore as well 
 as the Hitchhiker's Guide to the Galaxy series by Douglas Adams. 
+
+
+
+Yinong Sheng
+-----------------------------------------------------------------------
+I am currently a CS major student coming up to senior class. Originally I wanted to 
+pursue an Electrical Engineering degree but I made a slight change of plan after the 
+whole AI frenzy took off, shifting my focus towards data analysis and AI related 
+areas. I am contributing to the development of an open source creative canvas software 
+for stable diffusion, InvokeAI. Additionally, I provide alpha/beta testing for closed 
+source mobile camera apps, Moment on iOS and MotionCam on Android. In my free time  
+besides gaming, I enjoy photography and listening to music.
