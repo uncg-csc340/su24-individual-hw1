@@ -37,3 +37,11 @@ areas. I am contributing to the development of an open source creative canvas so
 for stable diffusion, InvokeAI. Additionally, I provide alpha/beta testing for closed 
 source mobile camera apps, Moment on iOS and MotionCam on Android. In my free time  
 besides gaming, I enjoy photography and listening to music.
+
+Laith Almesad
+-----------------------------------------------------------------------
+I am a Computer Science major here at UNCG. I Currently am a senior and am on my last year,
+planning the graduate during the fall semester. I have experience programming in Java, Python,
+C++, and C#. Usually with my spare time I like to practice art, reading, going for jogs, and finding
+new cafes to go to. I love movies, especially really bad movies cause I think they are the most
+fun to watch, especially with friends. 
