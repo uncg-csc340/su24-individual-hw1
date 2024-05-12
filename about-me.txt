@@ -27,7 +27,77 @@ my friends or read fantasy novels. I am currently reading Homeland by R.A. Salva
 as the Hitchhiker's Guide to the Galaxy series by Douglas Adams. 
 
 
+
+Yinong Sheng
+-----------------------------------------------------------------------
+I am currently a CS major student coming up to senior class. Originally I wanted to 
+pursue an Electrical Engineering degree but I made a slight change of plan after the 
+whole AI frenzy took off, shifting my focus towards data analysis and AI related 
+areas. I am contributing to the development of an open source creative canvas software 
+for stable diffusion, InvokeAI. Additionally, I provide alpha/beta testing for closed 
+source mobile camera apps, Moment on iOS and MotionCam on Android. In my free time  
+besides gaming, I enjoy photography and listening to music.
+
+Laith Almesad
+-----------------------------------------------------------------------
+I am a Computer Science major here at UNCG. I Currently am a senior and am on my last year,
+planning the graduate during the fall semester. I have experience programming in Java, Python,
+C++, and C#. Usually with my spare time I like to practice art, reading, going for jogs, and finding
+new cafes to go to. I love movies, especially really bad movies cause I think they are the most
+fun to watch, especially with friends. 
+
+Trevor Bazen
+----------------------------u-------------------------------------------
+I am a CS major at UNCG and an upcoming senior, I started as a nursing  
+major at UNCW and quickly realized it was not what I wanted to spend the  
+rest of my life doing. I transferred to UNCG and switched my major to CS and  
+I love it. I like to go to the gym and play golf, I have an 80 pound  
+Labradoodle and he has made me completely rethink the idea of having kids.
+I plan to move back to the beach with my gf after graduation, and either work  
+for a local company or work remotely for others. Thanks!
+
+
+Syed Hassan
+ -----------------------------------------------------------------------
+My name is Syed. I am doing my major in computer science and I am junior at UNCG. Other than the studies I like to play
+badminton, pickle ball, and cricket. Additionally, I love to explore new places and I like to do travelling.
+
+Sadie Korzekwa
+-----------------------------------------------------------------------
+I am a Computer Science major and a Junior at UNCG. I am a transfer student from Guilford  
+Technical Community College. Alongside my classes, I also work as a math tutor at my old  
+community college. In my free time, I like knitting, crocheting, and making jewelry.
+
+
+Collin Rodgers
+-----------------------------------------------------------------------
+I am senior Majoring in Computer Science. I like to play basketball and  
+play super smash bros ultimate on the switch.
+
+Victor Lor
+-----------------------------------------------------------------------
+I am a computer science major. I am currently a junior and will be a senior
+in the fall semester.I transferred to UNCG in fall 2023 from Catawba Valley
+Community College. I like to run, bike, play games,and read. I am reading
+Five Years After by William Forstchen, which is the last novel in the series.
+
+
+Kennedy Page
+-----------------------------------------------------------------------
+I am a Computer Science major. I am a Junior and will graduate in Fall 2025. 
+I have a golden doodle puppy named Winston who is 12 weeks old. 
+I like to and try to read everyday. The genres I read range from fiction to non-fiction 
+and right now I am currently reading 'The Alchemist' by Paulo Coelho. 
+I also enjoy music and listen to many styles including pop, rock, alternative, etc. 
+I am also currently learning how to play the guitar, slowly, but surely.
+
+Josh Ambrose
+-----------------------------------------------------------------------
+I am a computer science major at UNCG and in my final year of coursework. I'll be graduating in December. 
+Before returning to school I've had several jobs ranging from event coordinator to bar manager. 
+I have two dogs named Olive and Muffin. They're great even if they like to terrorize me every morning. 
+
 Ashirvad Khanal
 -----------------------------------------------------------------------
-Hi,I am a junior studying computer science at UNC Greensboro. I transferred from Wake Technical  
+Hi,I am a junior studying computer science at UNC Greensboro. I transferred from Wake Technical
 Community College last summer. In my free time, I love playing video games, watching movies, and playing cricket.
