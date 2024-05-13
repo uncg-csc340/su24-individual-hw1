@@ -74,6 +74,11 @@ Collin Rodgers
 I am senior Majoring in Computer Science. I like to play basketball and  
 play super smash bros ultimate on the switch.
 
+Mogoi Matongo
+-----------------------------------------------------------------------
+I am a Computer Science Major, in my free time I enjoy hanging with friends  
+and playing basketball or soccer.
+
 Victor Lor
 -----------------------------------------------------------------------
 I am a computer science major. I am currently a junior and will be a senior
@@ -102,6 +107,16 @@ Ashirvad Khanal
 Hi,I am a junior studying computer science at UNC Greensboro. I transferred from Wake Technical
 Community College last summer. In my free time, I love playing video games, watching movies, and playing cricket.
 
+
+
+Nathaniel Gebregziabher
+-----------------------------------------------------------------------
+I am a student of Computer Science at UNCG with a minor in Math. I was born and raised in Charlotte,NC 
+by parents of Ethiopian decent. My favorite hobby's growing up were playing basketball, video games and watching sports 
+Im a big fan of movies including Goodfellas, Shawshank Redemption, and Intersteller. 
+While my favorite shows are Ozark, Game of Thrones and House of Dragons  
+I also have a dog named dully who is 1 year old and a pitbull breed. 
+Last but not least my favorite foods are burgers, pizza and chicken wings.
 
 Ethan Mongelli
 -----------------------------------------------------------------------
@@ -142,3 +157,4 @@ Raven Griffin
 I am a Computer Science and Political major at UNCG.  
 I like to run for fun. I am training for a half marathon (13.1 miles).  
 This is my senior year at UNCG and I am ready to graduate.
+
