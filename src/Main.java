@@ -11,15 +11,12 @@ public class Main {
         String appendText = """
                 
                                 
-                Sunny Ntini
+                Hamza Ahmed
                 -----------------------------------------------------------------------
-                I am a lecturer of Computer Science. I have a MS in Comp Sci from UNCG, and a \s
-                BS in Computer Science from Indiana University of Pennsylvania.\s
-                I like (some) superheroes and puzzles. I solve my Wordle at 12:01 am every day.
-                Just like most basic people, I like hiking. I also like history tidbits so I listen to\s
-                Behind The Bastards, The Dollop, Well There's Your Problem, Ridiculous History and the like. I'm\s
-                currently reading "Rogues: True Stories of Grifters, Killers, Rebels, and Crooks".
-                This is the way.""";
+                I am currently pursuing a Bachelor's of Computer Science at UNCG.
+                but I plan to do one next year. I plan on becoming a software
+                engineer, stack developer, or data scienctist as a potential
+                future career. """;
 
         appendUsingFileWriter(filePath, appendText);
     }
