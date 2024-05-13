@@ -24,7 +24,7 @@ public class Main {
         appendUsingFileWriter(filePath, appendText);
     }
 
-    
+
     /**
      * Use FileWriter to append text to a file.
      *
@@ -52,4 +52,3 @@ public class Main {
     }
 
 }
-
