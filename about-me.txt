@@ -37,3 +37,6 @@ areas. I am contributing to the development of an open source creative canvas so
 for stable diffusion, InvokeAI. Additionally, I provide alpha/beta testing for closed 
 source mobile camera apps, Moment on iOS and MotionCam on Android. In my free time  
 besides gaming, I enjoy photography and listening to music.
+
+My name is Ashish Khanal. I am computer science student here at UNCG and this is my junior year.
+I enjoy traveling and trying new foods.
