@@ -145,6 +145,12 @@ minor since I only need one class. You should look into, might only need one add
 So far here in the Computer Science classes Dr Koppers VR class has been the most fun, i'll 
 continue to explore that in my spare time.
 
+Hamza Ahmed
+-----------------------------------------------------------------------
+I am currently pursuing a Bachelor's of Computer Science at UNCG.
+but I plan to do one next year. I plan on becoming a software
+engineer, stack developer, or data scienctist as a potential
+future career.
 
 Raven Griffin
 -----------------------------------------------------------------------
@@ -152,11 +158,4 @@ I am a Computer Science and Political major at UNCG.
 I like to run for fun. I am training for a half marathon (13.1 miles).  
 This is my senior year at UNCG and I am ready to graduate. 
 
-Hamza Ahmed
------------------------------------------------------------------------
-I am currently pursuing a Bachelor's of Computer Science at UNCG.
-I enjoy exercising, playing video games, and resting when I'm not
-working. I'm not currently pursuing an internship this year,
-but I plan to do one next year. I plan on becoming a software
-engineer, stack developer, or data scienctist as a potential
-future career. "
+
