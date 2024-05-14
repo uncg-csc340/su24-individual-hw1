@@ -151,3 +151,10 @@ Raven Griffin
 I am a Computer Science and Political major at UNCG.  
 I like to run for fun. I am training for a half marathon (13.1 miles).  
 This is my senior year at UNCG and I am ready to graduate. 
+
+Sam Aguilar
+-----------------------------------------------------------------------
+I am currently a double major in Computer Science and SPanish double major with a minor
+in Anthropology. I play video games and read books in my spare time. I have an
+old dog named Champ, he's a terrier mix. I also like to try out different sports,
+such as volleyball and tennis. And I am excited for the class!
